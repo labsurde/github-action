@@ -1,12 +1,12 @@
 name: CI
 
-on:
+on_zzz:
   push:
     branches: [ main ]
   pull_request:
     branches: [ main ]
 
-jobs:
+jobs_zzz:
   build:
     runs-on: ubuntu-18.04
 
