@@ -1,3 +1,3 @@
 # github-action
 
-TBD
+This is a repo to play with *github action*.
